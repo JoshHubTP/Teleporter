@@ -450,7 +450,7 @@ makeDraggable(toggleButton)
 --// SPEED BOOST Button 
 local speedButton = Instance.new("TextButton", screenGui)
 speedButton.Size = UDim2.new(0,85, 0, 40)
-speedButton.Position = UDim2.new(0, 713, 0, 0.015, 0) -- sa right side
+speedButton.Position = UDim2.new(0, 599, 0, 0.053, 0) -- sa right side
 speedButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 speedButton.Text = "SPEED BOOST⚡"
 speedButton.TextScaled = true
